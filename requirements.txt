@@ -1,0 +1,5 @@
+# pandas for data reading/manipulation
+pandas>=1.0.0
+
+# PySide6 for Qt GUI (Widgets, SvgWidgets, Gui, Core, etc.)
+PySide6>=6.0.0
