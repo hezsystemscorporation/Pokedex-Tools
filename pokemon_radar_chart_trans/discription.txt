@@ -1,0 +1,1 @@
+This is the folder including all transparent radar charts. 
