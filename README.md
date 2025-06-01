@@ -14,7 +14,7 @@ As there are lots of players over the world playing Pokémon and more and more n
 As there are some image of characters missing in our image crawling procedure, you are welcome to upload image to the folder `pokemon_image\<pokemon_name>`. Also as time limits, you are also welcome to make other contributions or give comments about our project.    
 
 ### UI Design
-For this project, we use `pyside6` to implement our UI designs. We use basic python library to implement basic UIs with functions and then beautify them with `pyside6`. Also **Adobe^®^ XD** is used when designing the UIs.   
+For this project, we use `pyside6` to implement our UI designs. We use basic python library to implement basic UIs with functions and then beautify them with `pyside6`. Also **Adobe® XD** is used when designing the UIs.   
 
 ### Functions
 * **Pokémon Tools Main Page**: 
